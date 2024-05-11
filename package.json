@@ -1,0 +1,17 @@
+{
+  "name": "mernauth",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "learning-mearn-auth",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon backend/index.js",
+    "start": "node backend/index.js"
+  },
+  "author": "emmo-tech",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
